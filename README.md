@@ -28,3 +28,4 @@ A Python-based application that enables computer control through hand gestures u
    ```bash
    git clone https://github.com/your-username/hand-gesture-control.git
    cd hand-gesture-control
+pip install -r requirements.txt
